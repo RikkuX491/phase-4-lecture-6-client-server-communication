@@ -18,6 +18,6 @@
 
 ## If you are using this lecture repository as your Phase 4 Project template
 
-1. Make sure that you are in the root directory of this repository. You can enter the command `ls` in the terminal and if you see the `Pipfile`, `Pipfile.lock`, `README.md`, and `package-lock.json`, then you are in the correct directory.
+1. Make sure that you are in the root directory of this repository. You can enter the command `ls` in the terminal and if you see the `Pipfile`, `Pipfile.lock`, and `README.md` then you are in the correct directory.
 2. Run `rm -rf .git` in the terminal to remove existing git configuration.
 3. Run `git init` to initialize the project as a git repository.
